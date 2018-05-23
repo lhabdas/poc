@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+**.csproj.user
+
+appsettings.DoNotCommit.json
+PublishProfiles/
+
+
+node_modules
